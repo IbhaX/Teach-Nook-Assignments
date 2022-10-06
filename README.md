@@ -25,8 +25,10 @@ BMI and BMR calculator with Some decorator function
 * BMR
 * BMI
 * String Template
-* Decorator function
-* Typewrite Decorator
-* Decimal places Decorator 
+* Decorator 
+#### *Decorator functions*
+* Decimal places - Simple Decorator 
+* Typewrite - Decorator with arguments 
+
 
 
