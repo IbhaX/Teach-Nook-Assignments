@@ -92,7 +92,7 @@ class Tuple:
     
   
 class Dict:
-    ''' Very Common Tuple Functions '''
+    ''' Very Common Dictionary Functions '''
     def __init__(self, dictionary):
       self.dict = dictionary
     
