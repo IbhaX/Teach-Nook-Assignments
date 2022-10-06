@@ -18,6 +18,15 @@ Simple Calculator
 * Addition
 * Subtraction
 * Multiplication
-* Division 
+* Division
+## Assignment 4
+BMI and BMR calculator with Some decorator function
+#### *Contents*
+* BMR
+* BMI
+* String Template
+* Decorator function
+* Typewrite Decorator
+* Decimal places Decorator 
 
 
